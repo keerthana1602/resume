@@ -1,0 +1,18 @@
+#skill td
+{
+border: 5px solid black;
+    border-width: 2px;
+}
+
+td
+{
+padding:5px;  
+}
+body{
+    background-color: aquamarine;
+}
+hr
+{
+    height: 2px;
+    background-color: teal;
+}
